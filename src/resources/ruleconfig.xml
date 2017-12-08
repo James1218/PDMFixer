@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rules>
+	<rule id="avoidprintstacktrace">
+		<impl-class>com.tcs.pmdfixer.rules.AvoidPrintStackTrace</impl-class>
+	</rule>
+	<rule id="bingintinstantiation">
+		<impl-class>com.tcs.pmdfixer.rules.BigIntegerInstantiation</impl-class>
+	</rule>
+</rules>
